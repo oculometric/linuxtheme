@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "oculometric",
+                "Email": "jcostenart@gmail.com"
+            }
+        ],
+        "Name": "linuxtheme",
+        "Description": "experimental theme for vaporwavey-wireframey-signalisy-panels",
+        "Id": "linuxtheme",
+        "Version": "0.1",
+        "Category": "",
+        "EnabledByDefault": true,
+        "License": "GPL",
+        "Website": ""
+    },
+    "X-Plasma-API": "5.0"
+}
